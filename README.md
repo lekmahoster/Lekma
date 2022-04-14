@@ -1,4 +1,4 @@
-Telegramm link : https://t.me/vlbruh
+Discord link : https://discord.gg/mt4dUxXryh
 
 ANDROID : https://www.mediafire.com/file/2va7flx8c9n9jo5/com.projectbsds.v42333.apk/file
 
@@ -8,12 +8,12 @@ ANDROID 2 (GOOGLE DRIVE) OPTIMIZED : https://drive.google.com/file/d/11t6WMXywb7
 
 iOS : https://www.mediafire.com/file/ty7m3dc6ogyfhsb/BSDS_V42.ipa/file
 
-Server ZIP: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/vlbrawl.zip
+Server ZIP: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/master.zip
 
 ## Requirements: ##
 1. a brain...
 
-## How to play VL BRAWL V42: ##
+## How to play BSDS: ##
 1. download server and apk
 2. install the apk
 3. download pydroid (if you want to run from the phone)
@@ -24,4 +24,3 @@ Server ZIP: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/vlbrawl.
 ## Change the ip address and port (if needed) in libprojectbsds.config.so located in the lib folder of the apk ##
 
 ![Screenshot_20220302-180739_BSDS_V42](https://user-images.githubusercontent.com/52799759/156474426-399ea814-9727-4a49-a1f8-2f95e027309c.png)
-
