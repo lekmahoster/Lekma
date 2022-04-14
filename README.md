@@ -1,4 +1,4 @@
-Discord link : https://discord.gg/mt4dUxXryh
+TG link : https://t.me/vlbruh
 
 ANDROID : https://www.mediafire.com/file/2va7flx8c9n9jo5/com.projectbsds.v42333.apk/file
 
@@ -13,7 +13,7 @@ Server ZIP: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/master.z
 ## Requirements: ##
 1. a brain...
 
-## How to play BSDS: ##
+## How to play VL BRAWL FROM BSDS: ##
 1. download server and apk
 2. install the apk
 3. download pydroid (if you want to run from the phone)
