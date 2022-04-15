@@ -9,6 +9,7 @@ ANDROID 2 (GOOGLE DRIVE) OPTIMIZED : https://drive.google.com/file/d/11t6WMXywb7
 iOS : https://www.mediafire.com/file/ty7m3dc6ogyfhsb/BSDS_V42.ipa/file
 
 Server ZIP: https://github.com/lekmahoster/VL-BRAWL-V42/archive/refs/heads/main.zip
+Full Server ZIP: https://github.com/lekmahoster/VL-BRAWL-V42/blob/main/Full%20Zip.zip
 
 ## Requirements: ##
 1. a brain...
